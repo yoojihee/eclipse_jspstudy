@@ -7,7 +7,7 @@
 //int count = 3; //스크립트릿문장은 순서대로 실행됨 
 %>
 <meta charset="UTF-8">
-<title>Jsp 2번째 예제입니다</title>
+<title>Jsp 2번째 예제입니다!!!!</title>
 </head>
 <body>
 	<%
